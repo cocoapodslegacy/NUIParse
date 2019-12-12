@@ -8,6 +8,7 @@
 
 #import "NUIPShiftReduceGotoTable.h"
 
+#import "NUIPRule.h"
 
 @implementation NUIPShiftReduceGotoTable
 {
